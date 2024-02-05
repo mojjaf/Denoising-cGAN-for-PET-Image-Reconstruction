@@ -6,6 +6,8 @@ This GitHub project addresses the challenges of cardiac and respiratory motion-i
 Pending/related Publications:
 
 Tadi, Mojtaba Jafari, Jarmo Teuho, Riku Klén, Eero Lehtonen, Antti Saraste, and Craig S. Levin. "Synthetic Full Dose Cardiac PET Images from Low Dose Scans Using Conditional GANs." In 2022 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC), pp. 1-2. IEEE, 2022.
+
+
 Gambin, Joaquin Rives, Mojtaba Jafari Tadi, Jarmo Teuho, Riku Klén, Juhani Knuuti, Juho Koskinen, Antti Saraste, and Eero Lehtonen. "Learning to Denoise Gated Cardiac PET Images Using Convolutional Neural Networks." IEEE Access 9 (2021): 145886-145899.
 
 @inproceedings{tadi2022synthetic,
