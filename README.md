@@ -18,6 +18,8 @@ Gambin, Joaquin Rives, Mojtaba Jafari Tadi, Jarmo Teuho, Riku Klén, Juhani Knuu
   year={2022},
   organization={IEEE}
 }
+
+
 @article{gambin2021learning,
   title={Learning to Denoise Gated Cardiac PET Images Using Convolutional Neural Networks},
   author={Gambin, Joaquin Rives and Tadi, Mojtaba Jafari and Teuho, Jarmo and Kl{\'e}n, Riku and Knuuti, Juhani and Koskinen, Juho and Saraste, Antti and Lehtonen, Eero},
